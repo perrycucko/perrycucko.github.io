@@ -1,0 +1,11 @@
+Package: com.kael.fullscreenx
+Name: FullScreenX 
+Version: 1.1
+Depends firmware(>=11.0)
+Size: 17272
+Architecture: iphoneos-arm
+Description: Enable FullScreen for non-supported apps on iPhone X
+Maintainer: Yerushalayim <yehudabendavid2016@gmail.com>
+Author: Yerushalayim <yehudabendavid2016@gmail.com>
+Section: Tweaks
+Filename: debs//com.kael.fullscreenx_1.1_iphoneos-arm.deb
